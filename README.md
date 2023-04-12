@@ -2,9 +2,9 @@
 <p align="center">
  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU1Mzk3MThlYmViZmM4OTVmYzkwNWJlZWRmODRiMzMzZmNhNTRmMCZjdD1n/l41lQpaXZo7GGWD0k/giphy.gif" width="450"/></p>
  
-<h1 align="center">
-  Nuza555xx
-</h1>
+<h3 align="center">
+ Alias name : Nuza555xx
+</h3>
 
 <p align="center">
 <span>
