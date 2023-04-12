@@ -21,17 +21,7 @@
 ---
 
 ### 🔥 &nbsp; My Stats :
-<span>
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nuza555xx&theme=dark&background=000000)](https://git.io/streak-stats)
-</span>
-<span>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuza555xx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</span>
 
-
-
-
-<!-- ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuza555xx)](https://github.com/anuraghazra/github-readme-stats)
 ![Nuza555xx's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuza555xx&show_icons=true&bg_color=00000000)
- -->
+
