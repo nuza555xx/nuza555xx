@@ -19,12 +19,3 @@
 
 </p>
  <p align="center"><img src="https://komarev.com/ghpvc/?username=nuza555xx&style=flat-square&color=blue" alt=""></p>
-
-
----
-
-### 🔥 &nbsp; My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuza555xx&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-![Nuza555xx's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuza555xx&show_icons=true&bg_color=00000000)
-
