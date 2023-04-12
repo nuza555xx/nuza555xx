@@ -16,7 +16,10 @@
  <a target="__blank" href="https://www.instagram.com/nu.panuwats/">
   <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"></a>
 </span>
+
 </p>
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=nuza555xx&style=flat-square&color=blue" alt=""></p>
+
 
 ---
 
