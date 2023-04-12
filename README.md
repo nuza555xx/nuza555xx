@@ -8,7 +8,7 @@
 
 <p align="center">
 <span>
-<a target="__blank" href="https://www.linkedin.com/in/nuchaiwongthon">
+<a target="__blank" href="https://www.linkedin.com/in/panuwat-chaiwongthon">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </span>
  
